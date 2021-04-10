@@ -1,4 +1,5 @@
 #Stupid colored dice rolling simulator made by ShreKy --> https://github.com/ShreKy
+#Requires termcolor btw unless you cant see the import statement ¯\_(ツ)_/¯ ,too lazy to create requirements.txt file in this thing called github                                                                                                                   no one will ever see this anyway             ;(
 
 import random
 import time
