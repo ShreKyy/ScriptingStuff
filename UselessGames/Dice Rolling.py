@@ -1,3 +1,5 @@
+#Stupid colored dice rolling simulator made by ShreKy --> https://github.com/ShreKy
+
 import random
 import time
 from termcolor import colored,cprint
