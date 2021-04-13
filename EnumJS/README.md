@@ -1,3 +1,9 @@
+# EnumJS  
+This tool is meant to automate gathering JavaScript files to find information disclosure while doing Bug Bounties  
+It is made off of this article --> https://medium.com/@patelkathan22/beginners-guide-on-how-you-can-use-javascript-in-bugbounty-492f6eb1f9ea  
+It's just put together so you dont have to type it over and over again  
+lol
+
 # Requirements
 
 For this to work you will need a couple of tools:  
